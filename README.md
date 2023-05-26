@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Ruslan Rabadanov! 👋
 
-<!--
-**R-Ohman/R-Ohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at [Politechnika Gdańska](https://eti.pg.edu.pl/), specializing in Computer Science. I have a passion for coding and enjoy working on various projects.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning and exploring different areas of computer science, including software development, algorithms, and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me via:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruslan%20Rabadanov-orange?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ruslan-rabadanov-638013259/)
+[![Email](https://img.shields.io/badge/Email-Contact-orange?logo=gmail&style=flat-square)](mailto:rabadanov.ruslann@gmail.com)
+
+Feel free to connect with me or reach out if you have any questions or collaboration opportunities. I'm always open to interesting projects and learning new things!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Ohman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
