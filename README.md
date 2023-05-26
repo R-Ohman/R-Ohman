@@ -1,6 +1,6 @@
 ### Hi there, I'm Ruslan Rabadanov! 👋
 
-I'm a Computer Science student at [Politechnika Gdańska](https://eti.pg.edu.pl/), specializing in Computer Science. I have a passion for coding and enjoy working on various projects.
+I'm a Computer Science student at [Gdańsk University of Technology](https://eti.pg.edu.pl/), specializing in Computer Science. I have a passion for coding and enjoy working on various projects.
 
 🌱 I'm currently learning and exploring different areas of computer science, including software development, algorithms, and data structures.
 
