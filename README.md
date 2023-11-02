@@ -11,4 +11,4 @@ I'm a Computer Science student at [Gdańsk University of Technology](https://eti
 
 Feel free to connect with me or reach out if you have any questions or collaboration opportunities. I'm always open to interesting projects and learning new things!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Ohman&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Ohman&hide=html&layout=compact)
