@@ -1,6 +1,6 @@
 ### Ruslan Rabadanov
 
-- 3rd-year Computer Science student at [Gdańsk University of Technology](https://eti.pg.edu.pl/).
+- 4th-year Computer Science student at [Gdańsk University of Technology](https://eti.pg.edu.pl/).
 
 📫 You can reach me via:
 
